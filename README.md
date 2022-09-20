@@ -14,7 +14,7 @@ Object Detection model weights URL:
 </div>
 
 ------------
-Video Demo URL:https://youtu.be/E8tftuIErYA
+#Video Demo URL:https://youtu.be/E8tftuIErYA
 
 ------------
 
